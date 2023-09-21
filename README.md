@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Hussein-Mansour/Hussein-Mansour/assets/74609841/036fafcf-fbe7-417a-aa84-fa14f98f3963">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hussein-mansour&label=Profile%20views&color=0e75b6&style=flat" alt="hussein-mansour" /> </p>
+
 
 - 🌱 I’m currently learning **At the Algonquin College**
 
