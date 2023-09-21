@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **At the Algonquin College**
 
-- 👨‍💻 My Portfolio is available at: [husseinmansour-3dc61.web.app](https://husseinmansour-3dc61.web.app/)
+- 👨‍💻 Check out my Portfolio: [husseinmansour-3dc61.web.app](https://husseinmansour-3dc61.web.app/)
 
 - 📫 How to reach me **mans0184@algonquinlive.com**
 
