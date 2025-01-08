@@ -5,7 +5,7 @@
 
 
 
-- 🌱 New Graduate **At the Algonquin College**
+- 🌱 Recent Graduate **At the Algonquin College**
 
 - 👨‍💻 Check out my Portfolio [husseinmansour-3dc61.web.app](https://husseinmansour-3dc61.web.app/)
 
